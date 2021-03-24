@@ -1,0 +1,49 @@
+@media screen and (min-width : 1200px){
+    
+    .ChatAppBox{
+        display: flex;
+        margin-top: 2%; 
+        border:1px solid #eee;
+        justify-content: center;
+        flex-direction: row;
+        height: 840px;
+        width: 60%;
+        margin-left: 20%;
+    }
+
+    .ChatAppBox .sidePanel{
+        width: 300px;
+        overflow: hidden;
+    }
+
+    .ChatAppBox .mainPanel{
+        width: 100%;
+        flex: 1;
+        overflow: hidden;
+    }
+
+    .message-form-button{
+        border: 1px solid slategray;
+        background-color: white;
+        text-transform: uppercase;
+        color: slategray;
+        border-radius: 6px;
+        margin-top: 40px;
+        padding: 20px;
+        font-size: 16px;
+        font-weight: 400;
+        letter-spacing: 10px;
+    }
+    .message-form-button:hover{
+        border: none;
+        background-color: #E62821;
+        text-transform: uppercase;
+        color: white;
+        border-radius: 6px;
+        margin-top: 40px;
+        padding: 20px;
+        font-size: 16px;
+        font-weight: 400;
+        letter-spacing: 10px;
+    }
+}
