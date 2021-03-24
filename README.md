@@ -22,7 +22,7 @@ Chat > react-chat-app > src > components >
 
 ## Firebase ──
 
-![Output/firebase.png](Output/Untitled.png)
+![Output/firebase.png](Output/firebase.png)
 
 ## Outputs ──
 
